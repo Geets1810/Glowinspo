@@ -18,7 +18,7 @@ st.set_page_config(page_title="GlowInspo", layout="wide")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("../data/glowinspo_outfits_retagged_v2.csv")
+    df = pd.read_csv("data/glowinspo_outfits_retagged_v2.csv")
 
     df["tone_list"] = df["tone_tags_v2"].apply(
         lambda x: [t.strip().lower() for t in str(x).split(",")]
