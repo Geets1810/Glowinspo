@@ -1,6 +1,6 @@
 # GlowInspo
 
-##A 2-Minute Styling Ritual for Women Who Dress With Intention
+## A 2-Minute Styling Ritual for Women Who Dress With Intention
 GlowInspo is an emotion-aware styling ritual built for women balancing busy workdays, creative lives, and internal emotional shifts.
 Instead of dressing for trends, it helps you dress for the energy you want to bring into your day.
 This version was built for the DEV Challenge to serve women who want less decision fatigue and more emotional alignment.
